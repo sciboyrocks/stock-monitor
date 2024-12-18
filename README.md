@@ -38,5 +38,5 @@ Ensure you have Python 3.x installed on your system. You can download it from [h
 ### Steps
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/stock-monitor.git
+   git clone https://github.com/sciboyrocks/stock-monitor.git
    cd stock-monitor
