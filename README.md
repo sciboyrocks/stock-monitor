@@ -27,7 +27,7 @@ The program will automatically attempt to install these modules if they are not 
 
 ## Indian Stocks
 - The application is tailored for **Indian stocks** traded on the National Stock Exchange (NSE).
-- To monitor Indian stocks, enter their stock symbols as listed on NSE, followed by `.NS` (e.g., `RELIANCE.NS`, `TCS.NS`) in the `stocks.txt` file.
+- To monitor Indian stocks, enter their stock symbols as listed on NSE,(e.g., `RELIANCE`, `TCS`) in the `stocks.txt` file.
 
 ---
 
