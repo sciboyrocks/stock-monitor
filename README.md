@@ -38,3 +38,11 @@ The program will automatically attempt to install these modules if they are not 
    ```plaintext
    Pushbullet_API_KEY='your_pushbullet_api_key'
    NewsApi_API_KEY='your_newsapi_api_key'
+---
+
+## Demo
+
+🎥  Check out the demo video: [Watch on YouTube](https://youtu.be/whOs6-Xc0oc)
+
+---
+
